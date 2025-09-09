@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://Kataifi.github.io/cms/sitemap.xml
